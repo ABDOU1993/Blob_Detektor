@@ -1,5 +1,5 @@
 # Modul
-Bildverarbeitung (Master Inforatik)
+Bildverarbeitung (Master Informatik)
 # Semester
 WS 2019/20
 # Übung
